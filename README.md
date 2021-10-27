@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src ="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src ="https://executive-education.epitech.eu/wp-content/uploads/2021/03/C-1.png">
-<img src ="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">  <img src ="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+<img src ="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  
+<img src ="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> 
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=1Lqwz&count_private=true&show_icons=true&theme=radical)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1LQWZ&show_icons=true&theme=radical)
